@@ -46,6 +46,7 @@ git branch teste => Cria uma branch chamada teste.
 git checkout teste => Muda para branch teste.
 git merge teste => Merge do teste com a brach atual.
 git branch -d teste => Deleta a brach teste.
+git push origin "branch" => Subir branch local para remoto.
 
 
 ================================================COMANDOS GIT================================================
